@@ -1,0 +1,4 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="180,50 1,400 400,500" fill="red" />
+      <text x="180" y="180" font-size="40" text-anchor="middle" fill="blue">YAY</text>
+    </svg>
